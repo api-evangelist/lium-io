@@ -1,4 +1,4 @@
-# lium-io
+# Lium
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,161 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-lium-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://lium.io/
+Lium is a GPU rental marketplace that provides on‑demand access to NVIDIA H100, H200, B200, RTX 4090 and other GPU pods. Users can rent compute resources by the second, with billing per‑second, and providers set their own pricing. The platform emphasizes agent‑first compute, offering a CLI and API for automated provisioning, and targets AI developers, researchers, and enterprises needing scalable GPU power.
+
+**Areas:** GPU · Marketplace · AI · Compute · Cloud
+
+## Lium on APIs.io
+
+Everything profiled for Lium is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lium-io/](https://apis.io/providers/lium-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (25)
+
+- [Lium Auth API](https://apis.io/apis/lium-io/lium-io-auth-api/) — The Auth API from Lium — 38 operation(s) for auth.
+- [Lium Default Jobs API](https://apis.io/apis/lium-io/lium-io-default-jobs-api/) — The Default Jobs API from Lium — 5 operation(s) for default jobs.
+- [Lium General APIs with JWT API](https://apis.io/apis/lium-io/lium-io-general-apis-with-jwt-api/) — 🌐 **General APIs** - Basic platform endpoints that the frontend app accesses. Uses JWT authentication.
+- [Lium Health API](https://apis.io/apis/lium-io/lium-io-health-api/) — The Health API from Lium — 1 operation(s) for health.
+- [Lium Lium Miner Portal APIs API](https://apis.io/apis/lium-io/lium-io-lium-miner-portal-apis-api/) — The Lium Miner Portal APIs API from Lium — 1 operation(s) for lium miner portal apis.
+- [Lium Machine Requests API](https://apis.io/apis/lium-io/lium-io-machine-requests-api/) — The Machine Requests API from Lium — 5 operation(s) for machine requests.
+- [Lium Machines API](https://apis.io/apis/lium-io/lium-io-machines-api/) — The Machines API from Lium — 2 operation(s) for machines.
+- [Lium Miners API](https://apis.io/apis/lium-io/lium-io-miners-api/) — The miners API from Lium — 10 operation(s) for miners.
+- [Lium Nodes API](https://apis.io/apis/lium-io/lium-io-nodes-api/) — The Nodes API from Lium — 27 operation(s) for nodes.
+- [Lium Notifications API](https://apis.io/apis/lium-io/lium-io-notifications-api/) — The Notifications API from Lium — 8 operation(s) for notifications.
+- [Lium Payments API](https://apis.io/apis/lium-io/lium-io-payments-api/) — The Payments API from Lium — 2 operation(s) for payments.
+- [Lium Penalties API](https://apis.io/apis/lium-io/lium-io-penalties-api/) — The Penalties API from Lium — 2 operation(s) for penalties.
+- [Lium Provider Earnings API](https://apis.io/apis/lium-io/lium-io-provider-earnings-api/) — The Provider Earnings API from Lium — 9 operation(s) for provider earnings.
+- [Lium Provider Ledger API](https://apis.io/apis/lium-io/lium-io-provider-ledger-api/) — The Provider Ledger API from Lium — 2 operation(s) for provider ledger.
+- [Lium Provider Payout API](https://apis.io/apis/lium-io/lium-io-provider-payout-api/) — The Provider Payout API from Lium — 2 operation(s) for provider payout.
+- [Lium Public API](https://apis.io/apis/lium-io/lium-io-public-api/) — The Public API from Lium — 1 operation(s) for public.
+- [Lium Public APIs For Providers API](https://apis.io/apis/lium-io/lium-io-public-apis-for-providers-api/) — ⚙️ **Public Provider APIs** - Open endpoints for providers and validators in the network. No authentication required.
+- [Lium Public demand feed API](https://apis.io/apis/lium-io/lium-io-public-demand-feed-api/) — The Public demand feed API from Lium — 1 operation(s) for public demand feed.
+- [Lium Public launch statistics API](https://apis.io/apis/lium-io/lium-io-public-launch-statistics-api/) — The Public launch statistics API from Lium — 1 operation(s) for public launch statistics.
+- [Lium Public nodes feed API](https://apis.io/apis/lium-io/lium-io-public-nodes-feed-api/) — The Public nodes feed API from Lium — 1 operation(s) for public nodes feed.
+- [Lium Public stats feed API](https://apis.io/apis/lium-io/lium-io-public-stats-feed-api/) — The Public stats feed API from Lium — 1 operation(s) for public stats feed.
+- [Lium Support API Key Authentication API](https://apis.io/apis/lium-io/lium-io-support-api-key-authentication-api/) — 🔐 **Authenticated APIs** - Endpoints requiring API key authentication for user-specific operations. Add `X-API-Key` in the header to authenticate.
+- [Lium Team API](https://apis.io/apis/lium-io/lium-io-team-api/) — The Team API from Lium — 5 operation(s) for team.
+- [Lium Validators API](https://apis.io/apis/lium-io/lium-io-validators-api/) — The Validators API from Lium — 3 operation(s) for validators.
+- [Lium Workspaces API](https://apis.io/apis/lium-io/lium-io-workspaces-api/) — The Workspaces API from Lium — 11 operation(s) for workspaces.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Lium Agentic Access](https://apis.io/agentic-access/lium-io/lium-io-agentic-access/)
+
+#### JSON Schema (12)
+
+The data models the API reads and writes.
+
+- [BackupLogResponse](https://apis.io/schemas/lium-io/lium-io-backup-log-response/)
+- [Executor](https://apis.io/schemas/lium-io/lium-io-executor/)
+- [ExecutorDetailResponse](https://apis.io/schemas/lium-io/lium-io-executor-detail-response/)
+- [ExecutorPodResponse](https://apis.io/schemas/lium-io/lium-io-executor-pod-response/)
+- [ExecutorResponse](https://apis.io/schemas/lium-io/lium-io-executor-response/)
+- [MachineRequestWithRequesterDto](https://apis.io/schemas/lium-io/lium-io-machine-request-with-requester-dto/)
+- [MinerExecutor](https://apis.io/schemas/lium-io/lium-io-miner-executor/)
+- [NodeListingResponse](https://apis.io/schemas/lium-io/lium-io-node-listing-response/)
+- [PauseNewRentalsResponse](https://apis.io/schemas/lium-io/lium-io-pause-new-rentals-response/)
+- [Pod](https://apis.io/schemas/lium-io/lium-io-pod/)
+- [PodDetailResponse](https://apis.io/schemas/lium-io/lium-io-pod-detail-response/)
+- [PodListItemResponse](https://apis.io/schemas/lium-io/lium-io-pod-list-item-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Lium Io Context](https://apis.io/jsonld/lium-io/lium-io-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Lium Openapi Overlay](https://apis.io/overlays/lium-io/lium-io-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Lium API Rules](https://apis.io/rules/lium-io/lium-io-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Lium Authentication](https://apis.io/security/lium-io/lium-io-authentication/)
+- [Lium Domain Security](https://apis.io/security/lium-io/lium-io-domain-security/)
+- [Lium Vulnerability Disclosure](https://apis.io/security/lium-io/lium-io-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://lium.io/)
+- [Documentation](https://docs.lium.io/)
+- [Getting started](https://docs.lium.io/providers/quickstart)
+- [API reference](https://docs.lium.io/developers/api.md)
+- [Pricing](https://lium.io/pricing)
+- [Blog](https://lium.io/blog)
+- [Terms of service](https://lium.io/terms)
+- [Privacy policy](https://lium.io/privacy)
+- [GitHub](https://github.com/Datura-ai)
+
+## API Evangelist rating
+
+**Kin Score 54.0** — developing · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 75.0 |
+| Contract quality | 58.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 14.3 |
+| Developer ergonomics | 56.4 |
+| Access clarity | 36.2 |
+
+**Agent readiness 60.8** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lium-io/](https://apis.io/providers/lium-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Lium: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lium-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
